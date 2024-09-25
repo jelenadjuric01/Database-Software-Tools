@@ -1,4 +1,4 @@
-This project implements a video streaming platform with basic user functionalities. The system allows users to register, upload, watch, and rate videos. Each user’s information, including name, email, age, gender, and location, is stored, and users can upload videos categorized into various groups.
+This project implements a video streaming platform with basic user functionalities. The system allows users to register, upload, watch, and rate videos. Each user’s information, including name, email, age, gender, and location, is stored, and users can upload videos categorized into various groups. System that uses JDBC for communicating with the database in MS SQL.
 
 Key functionalities include:
 User Management: User details such as name, email, and location are stored.
